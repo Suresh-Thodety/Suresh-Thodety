@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suresh-Thodety
-- 👀 I’m interested in Artificial Inteliigence, Factory Vision, People Detection and Tracking, Documents Parsing, Face Detection and Verification
+- 👀 I’m interested in Artificial Inteliigence, Factory Vision, People Detection and Tracking, Documents Parsing, Face Detection and Verification and Working as Technical Content writer at Visionify.ai
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Artificilal Intelligence Trensds and applications
 - 📫 How to reach me ...suresh.thodety@visionify.net
